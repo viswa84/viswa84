@@ -6,8 +6,6 @@
     <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35">
 </h1>
 
-
-
 <!----------------------------------- About Section ------------------------------------>
 
 <h3>
@@ -21,11 +19,11 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/praveen3411">
-        <img src="https://komarev.com/ghpvc/?username=praveen3411&label=Profile%20views&color=0e75b6&style=flat" alt="Praveen Kumar" />
+    <a href="https://github.com/viswa84">
+        <img src="https://komarev.com/ghpvc/?username=viswa84&label=Profile%20views&color=0e75b6&style=flat" alt="Praveen Kumar" />
     </a>
-     <a href="https://github.com/praveen3411?tab=followers">
-        <img src="https://img.shields.io/github/followers/praveen3411?label=Followers&style=social" alt="followers-count">
+     <a href="https://github.com/viswa84?tab=followers">
+        <img src="https://img.shields.io/github/followers/viswa84?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
 <br>
@@ -66,17 +64,17 @@
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 <h2 align="center"><i>My GitHub Stats</i></h2>
 <p align="center"></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveen3411&&theme=highcontrast" alt="praveen3411"/></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viswa84&&theme=highcontrast" alt="viswa84"/></p>
 <p align="center">
 </p>
 <br>
 <!----------------------------------- Tech Languages ------------------------------------>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveen3411&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="praveen3411" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=viswa84&show_icons=true&locale=en&layout=compact&&theme=highcontrast" alt="viswa84" /></p>
 <p align="center">
 </p>
 <br>
 <!----------------------------------- Git Status ------------------------------------>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=praveen3411&show_icons=true&locale=en&&theme=highcontrast" alt="praveen3411" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=viswa84&show_icons=true&locale=en&&theme=highcontrast" alt="viswa84" /></p>
 <br>
-<p align="center"><a href="https://github-profile-trophy.vercel.app/?username=praveen3411&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=praveen3411&theme=algolia" alt="praveen3411" /></a></p>
+<p align="center"><a href="https://github-profile-trophy.vercel.app/?username=viswa84&theme=algolia"><img src="https://github-profile-trophy.vercel.app/?username=viswa84&theme=algolia" alt="viswa84" /></a></p>
 <br>
