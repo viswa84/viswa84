@@ -62,7 +62,7 @@
     </a>
 </p>
 <br>
-<!----------------------------------- GitHub Stats Section ------------------------------------>
+<!----------------------------------- GitHub Stats Section ------------------------------------------->
 <h2 align="center"><i>My GitHub Stats</i></h2>
 <p align="center"></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viswa84&&theme=highcontrast" alt="viswa84"/></p>
