@@ -9,7 +9,7 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3>
-    <i>- I'm a Full-Stack-web-Developer skilled in Tech stack and focuses on writing clean, elegant and efficient code.</i>
+    <i>- I'm a Full-Stack-web-Developer skilled in Tech stack and focuses on writing clean, elegant and efficient code..........</i>
 </h3>
 
 <!----------------------------------- Profile View Section ------------------------------------>
